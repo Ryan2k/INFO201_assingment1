@@ -1,6 +1,6 @@
-#As School Moves Online, Many Students Stay Logged Out#
+# As School Moves Online, Many Students Stay Logged Out
 
-Even in the best of times, students being absent has been a huge concern. Now that school has been pushed online, teachers are reporting that **less than half** of there students are attending online classes and submitting their assignments. Most of these reports are coming from **high schools** in **lower income** areas. This has lead to many instructors pushing for **summer class's**. However, if students are not showing up to online lectures now, why would they show up to potential online lectures over the summer? This question has lead to many educators thinking of having some students **repeat the whole grade!**
+This _New York Times_ article states that even in the best of times, students being absent has been a huge concern. Now that school has been pushed online, teachers are reporting that **less than half** of there students are attending online classes and submitting their assignments. Most of these reports are coming from **high schools** in **lower income** areas. This has lead to many instructors pushing for **summer class's**. However, if students are not showing up to online lectures now, why would they show up to potential online lectures over the summer? This question has lead to many educators thinking of having some students **repeat the whole grade!**
 
 >Students are struggling to connect in districts large and small. Los Angeles said last week that about a third of its high school students were not logging in for classes. And there are daunting challenges for rural communities like Minford, Ohio, where many students live in remote wooded areas unserved by internet providers.
 
