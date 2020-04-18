@@ -1,5 +1,17 @@
-# Git Commands
-The purpose of this file is for you to demonstrate your knowledge of working with the terminal (because we can't otherwise know which commands you entered in the terminal). Think of it as a way to document the code that you used in the terminal to perform the assignment. Following each prompt below, write the line of code that you would (did) use on the terminal to accomplish the task. You can then use this file as a reference for your own work.
+git clone https://github.com/info-201a-sp20/exercises-Ryan2k
+mkdir imgs
+cd Users
+ls
+cd Ryan2
+ls
+cd documents
+ls
+cd INFO201/
+ls
+cd a1-Ryan2k/
+git add.
+git commit -m "last change"
+git push
 
 ```bash
 # Print your working directory
@@ -22,13 +34,8 @@ The purpose of this file is for you to demonstrate your knowledge of working wit
 
 ```
 
-# Finding Cheat Sheets
+Git Cheat Sheet: https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+- reason i used it is because it was the first link when i google searched and provided all necessary answers
 
-A cheet sheet is a website (or document) that has a list of commonly used commands for a program or programming language.
-
-Search Google for *git cheat sheets*, look through several, and choose your favorite. Below copy the url of your favorite one and below it write a sentence explaining why that one was your favorite.
-
-
-
-Search Google for *markdown cheat sheets*, look through several, and choose your favorite. Below copy the url of your favorite one and below it write a sentence explaining why that one was your favorite.
-
+Markdown cheat sheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+- Not the first link however first one that had all necessary info
